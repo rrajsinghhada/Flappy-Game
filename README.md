@@ -7,5 +7,5 @@ This is a python programe for Flappy game with level system(increase in difficul
 
 
 ## Installation Dependencies:
-*python 3.9
-*pygame
+* Python 3
+* pygame
